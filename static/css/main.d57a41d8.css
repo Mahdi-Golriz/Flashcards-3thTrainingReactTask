@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{font-family:sans-serif;padding:20px}.flashcards{grid-gap:20px;display:grid;gap:20px;grid-template-columns:1fr 1fr 1fr}.flashcards div{align-items:center;aspect-ratio:2/1;background-color:#f7f7f7;border:1px solid #e7e7e7;border-radius:7px;cursor:pointer;display:flex;justify-content:center;padding:20px;text-align:center}div.selected{background-color:#e03131;border:1px solid #e03131;color:#fff;font-weight:700}
+/*# sourceMappingURL=main.d57a41d8.css.map*/

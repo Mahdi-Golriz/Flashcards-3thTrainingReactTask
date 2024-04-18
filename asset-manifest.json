@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Flashcards-3thTrainingReactTask/static/css/main.d57a41d8.css",
+    "main.js": "/Flashcards-3thTrainingReactTask/static/js/main.5c0a0dc5.js",
+    "index.html": "/Flashcards-3thTrainingReactTask/index.html",
+    "main.d57a41d8.css.map": "/Flashcards-3thTrainingReactTask/static/css/main.d57a41d8.css.map",
+    "main.5c0a0dc5.js.map": "/Flashcards-3thTrainingReactTask/static/js/main.5c0a0dc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57a41d8.css",
+    "static/js/main.5c0a0dc5.js"
+  ]
+}
