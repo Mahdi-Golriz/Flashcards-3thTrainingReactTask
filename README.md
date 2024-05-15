@@ -5,7 +5,7 @@ Flashcards React application
 * [About](#about)
 * [Technologies](#technologies)
 * [Setup](#setup)
-
+  
 ## About
 - I have started to learn the React through a course from the Udemy instructed by Jonas Schmedtmann. During this course I should develop many training task, projects and applications. This is the third task of this course :).
 - In this section I learned about:
